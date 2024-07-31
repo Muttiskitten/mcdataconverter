@@ -1,0 +1,5 @@
+name: DataConverter
+main: dataconverter.convertermc
+version: 1.0
+api: 1.0.0
+description: A Geyser extension to convert Java Edition data to Bedrock Edition.
